@@ -1,8 +1,4 @@
-This application will tell you when the International Space Station is above you.
-
-Requirements:
-- latest version of Python (app was created with version 3.13)
-- requests library (run 'pip install requests' in the terminal)
+This application will tell you when the International Space Station is above you. It was created with Python v3.13.
 
 This app calls 2 APIs:
 - International Space Station Current Location API (http://open-notify.org/Open-Notify-API/ISS-Location-Now/)

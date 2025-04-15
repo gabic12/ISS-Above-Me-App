@@ -41,4 +41,4 @@ while True:
     if is_dark() and is_iss_overhead():
         print(f"{time_now}: the ISS is above you.")
     elif not is_dark() and is_iss_overhead():
-        print(f"{time_now}: the ISS is above you, but it is day outside.")
+        print(f"{time_now}: the ISS is above you, but it is dark outside.")
